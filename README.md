@@ -1,14 +1,17 @@
 <div align="center">
   <img src="header.svg" alt="Inchara Jayaram Anuradha – Software Engineer | Full Stack Developer" width="100%">
 
-  # Inchara Jayaram Anuradha
+---
 
-  **Software Engineer | Full Stack Developer** · San Jose, California, USA
+<div align="center">
+  <a href="https://github.com/YOUR-USERNAME?tab=followers">
+    <img src="https://img.shields.io/github/followers/YOUR-USERNAME?label=Followers&logo=github&logoColor=white&labelColor=0d1117&color=58a6ff&style=flat" alt="GitHub followers">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views">
+  <a href="https://github.com/YOUR-USERNAME?tab=repositories">
+    <img src="https://img.shields.io/github/stars/YOUR-USERNAME?label=Stars&logo=github&logoColor=white&labelColor=0d1117&color=f0c040&style=flat" alt="GitHub stars">
+  </a>
 </div>
-
-I build reliable full-stack and backend systems. I have 3+ years of experience with Java, Spring Boot, React, Node.js, Python, REST APIs and microservices across enterprise and fintech environments.
-
-📫 [incharaanuradha58@gmail.com](mailto:incharaanuradha58@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN) · 🌐 [Portfolio](https://YOUR-USERNAME.github.io)
 
 ## 🧰 Tech stack
 
