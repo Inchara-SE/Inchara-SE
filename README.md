@@ -1,12 +1,14 @@
-# Hi, I’m Inchara Jayaram Anuradha 👋
+<div align="center">
+  <img src="assets/header.svg" alt="Inchara Jayaram Anuradha – Software Engineer | Full Stack Developer" width="100%">
 
-**Software Engineer | Full Stack Developer** · San Jose, California, USA
+  # Inchara Jayaram Anuradha
+
+  **Software Engineer | Full Stack Developer** · San Jose, California, USA
+</div>
 
 I build reliable full-stack and backend systems. I have 3+ years of experience with Java, Spring Boot, React, Node.js, Python, REST APIs and microservices across enterprise and fintech environments.
 
 📫 [incharaanuradha58@gmail.com](mailto:incharaanuradha58@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN) · 🌐 [Portfolio](https://YOUR-USERNAME.github.io)
-
----
 
 ## 🧰 Tech stack
 
