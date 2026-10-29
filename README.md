@@ -32,40 +32,6 @@
 <div align="center">
   <img src="impact-highlights.svg" alt="Impact highlights grouped by employer: Atlassian, Spense and BrioBrill, with eight measurable outcomes" width="100%">
 </div>
-## 🚀 Featured projects
-
-### [E-Commerce Order Management Platform](https://github.com/YOUR-USERNAME/ecommerce-order-management)
-`Java` `Spring Boot` `React` `TypeScript` `PostgreSQL` `REST APIs` `Docker` `JUnit`
-
-Full-stack application with customer registration, product management, cart and order-processing workflows. Customer and order operations go through REST APIs with authentication, input validation, exception handling and JUnit tests. Docker keeps setup consistent across environments.
-
-```mermaid
-flowchart LR
-  A[React + TypeScript] -->|REST APIs| B[Spring Boot services]
-  B --> C[(PostgreSQL)]
-```
-
-### [Medical RAG Assistant](https://github.com/YOUR-USERNAME/medical-rag-assistant)
-`Python` `LangChain` `Llama 3` `Pinecone` `Flask` `Hugging Face Embeddings`
-
-Lets users ask questions and find relevant information across medical documents. PDF extraction, chunking, embeddings and Pinecone vector search feed retrieved context to the LLM through an API workflow.
-
-```mermaid
-flowchart LR
-  A[PDF documents] --> B[Text extraction] --> C[Chunking] --> D[Embeddings]
-  D --> E[Pinecone vector search] --> F[Retrieved context] --> G[Llama 3 response]
-```
-
-> ⚠️ Information-retrieval demonstration only. Not a substitute for professional medical advice.
-
----
-
-## 🎓 Education
-
-- **University of Massachusetts Amherst**: M.S. Business Analytics (Data Science), Sept 2024 – May 2026
-- **Jyothy Institute of Technology**: B.E. Information Science, Aug 2019 – Aug 2023
-
----
 
 ## 🤝 Let’s connect
 
