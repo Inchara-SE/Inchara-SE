@@ -11,23 +11,11 @@
     <img src="https://img.shields.io/github/stars/USERNAME/REPO?label=Stars&logo=github&logoColor=white&labelColor=0d1117&color=f0c040&style=flat" alt="GitHub stars">
   </a>
 </div>
-
 ## 🧰 Tech stack
 
-| Area | Technologies |
-|---|---|
-| Languages | Python, Java, JavaScript, TypeScript, Go, C++, SQL |
-| Frontend | React, HTML5, CSS3 |
-| Backend | Spring Boot, Node.js, REST APIs, GraphQL, Microservices |
-| Cloud & DevOps | AWS, Microsoft Azure, Docker, Kubernetes, Terraform, Jenkins, CI/CD |
-| Data | PostgreSQL, MySQL, MongoDB, PySpark, Pandas, ETL, Data Transformation, Data Validation |
-| Messaging | Apache Kafka, API Integration, JSON |
-| Testing | JUnit, Unit Testing, Integration Testing, API Testing, Test Automation, Debugging |
-| Engineering | Git, GitHub, Linux, JIRA, Agile, Scrum, System Design, Error Handling |
-| Security | Authentication, Role-Based Access Control, Input Validation |
-
----
-
+<div align="center">
+  <img src="tech-stack.svg" alt="Tech stack: Python, Java, JavaScript, TypeScript, Go, C++, SQL, React, Spring Boot, Node.js, AWS, Docker, Kubernetes, PostgreSQL, Kafka, JUnit, Git and more" width="100%">
+</div>
 ## 💼 Experience
 
 **Software Engineer Intern, Atlassian** · Dec 2025 – Present · USA
