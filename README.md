@@ -29,21 +29,9 @@
 `JavaScript` `React` `Node.js` `Java` `Spring Boot` `MySQL` `REST APIs` `Role-Based Access Control` `Git`
 
 ---
-
-## Impact highlights
-
-Each figure belongs to the role listed beside it.
-
-| Role | Highlight |
-|---|---|
-| **Atlassian** | **50K+** records processed daily |
-| **Atlassian** | **40%** improvement in recurring processing efficiency |
-| **Atlassian** | **20%** reduction in average response time |
-| **Spense** | **5,000+** customer applications supported |
-| **Spense** | **17%** improvement in API throughput |
-| **Spense** | **25%** increase in automated regression coverage |
-| **BrioBrill** | **1,000+** employee records supported |
-| **BrioBrill** | **18%** improvement in HR processing efficiency |
+<div align="center">
+  <img src="impact-highlights.svg" alt="Impact highlights grouped by employer: Atlassian, Spense and BrioBrill, with eight measurable outcomes" width="100%">
+</div>
 ## 🚀 Featured projects
 
 ### [E-Commerce Order Management Platform](https://github.com/YOUR-USERNAME/ecommerce-order-management)
