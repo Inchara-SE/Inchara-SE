@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/header.svg" alt="Inchara Jayaram Anuradha – Software Engineer | Full Stack Developer" width="100%">
+  <img src="header.svg" alt="Inchara Jayaram Anuradha – Software Engineer | Full Stack Developer" width="100%">
 
   # Inchara Jayaram Anuradha
 
