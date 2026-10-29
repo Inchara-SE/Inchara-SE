@@ -24,47 +24,7 @@
   <img src="experience-timeline.svg" alt="Timeline of three roles: Atlassian (Software Engineer Intern, Dec 2025 to present), Spense Reliable Fintech (Full Stack Developer, Dec 2022 to Aug 2024), BrioBrill (Junior Software Developer, Jun 2021 to Oct 2022)" width="100%">
 </div>
 
----
 
-## Software Engineer Intern · Atlassian
-*December 2025 – Present · USA*
-
-- Worked on backend components using Spring Boot, Python, and SQL, including REST APIs, microservices, PostgreSQL, and database queries.
-- Reduced average response time by **20%** across assigned backend workflows.
-- Processed and transformed **50K+ records per day** using Python and PySpark.
-- Improved recurring processing efficiency by **40%**.
-- Worked with Docker, Kubernetes, AWS, Git, and CI/CD pipelines.
-- Added input validation, error handling, and data-quality checks.
-- Performed unit, integration, and API testing.
-
-`Spring Boot` `Python` `SQL` `PostgreSQL` `PySpark` `Pandas` `AWS` `Docker` `Kubernetes` `CI/CD` `REST APIs` `Testing`
-
----
-
-## Full Stack Developer · Spense Reliable Fintech Pvt. Ltd.
-*December 2022 – August 2024 · India*
-
-- Built secure credit card onboarding workflows using React, TypeScript, JavaScript, and Node.js.
-- Supported **5,000+ customer applications** and helped increase successful application completion by **22%**.
-- Worked on Spring Boot and Node.js microservices for onboarding, KYC, and asset-backed credit.
-- Handled **1,000+ daily requests** and improved API throughput by **17%**.
-- Built React, TypeScript, GraphQL, and SQL dashboards, reducing manual application tracking by **30%**.
-- Added Kafka event processing, authentication, validation, and automated testing.
-- Increased automated regression coverage by **25%**.
-
-`React` `TypeScript` `JavaScript` `Node.js` `Spring Boot` `GraphQL` `SQL` `Kafka` `Authentication` `Automated Testing`
-
----
-
-## Junior Software Developer · BrioBrill
-*June 2021 – October 2022 · India*
-
-- Developed leave, attendance, and payroll workflows for the Perk Attendance & Payroll platform.
-- Supported **1,000+ employee records** and improved HR processing efficiency by **18%**.
-- Built REST API integrations using Java, Spring Boot, and MySQL.
-- Handled **500+ daily employee transactions** and reduced data retrieval time by **20%**.
-- Implemented role-based access control and secure API endpoints.
-- Helped reduce recurring defects by **15%**.
 
 `JavaScript` `React` `Node.js` `Java` `Spring Boot` `MySQL` `REST APIs` `Role-Based Access Control` `Git`
 
