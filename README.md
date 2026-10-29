@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-  <img src="tech.svg" alt="Tech stack: Python, Java, JavaScript, TypeScript, Go, C++, SQL, React, Spring Boot, Node.js, AWS, Docker, Kubernetes, PostgreSQL, Kafka, JUnit, Git and more" width="100%">
+  <img src="techno.svg" alt="Tech stack: Python, Java, JavaScript, TypeScript, Go, C++, SQL, React, Spring Boot, Node.js, AWS, Docker, Kubernetes, PostgreSQL, Kafka, JUnit, Git and more" width="100%">
 </div>
 ## 💼 Experience
 
