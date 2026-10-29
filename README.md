@@ -1,50 +1,87 @@
-<h1 align="center">Hi, I'm <a href="https://inchara-ja.github.io/">INCHARA J A</a></h1>
-<h3 align="center">Learning to code is a fantastic oppurtunity equalizer-and I'm gonna rock it.</h3></br>
+# Hi, I’m Inchara Jayaram Anuradha 👋
 
+**Software Engineer | Full Stack Developer** · San Jose, California, USA
 
-<!-- All of my projects are available at [https://github.com/Inchara-JA](https://github.com/Inchara-JA)</br>
+I build reliable full-stack and backend systems. I have 3+ years of experience with Java, Spring Boot, React, Node.js, Python, REST APIs and microservices across enterprise and fintech environments.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
-    <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/django.png"/> </a>
-    <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
-    <a href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma--v2.png"/> </a> 
-    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/> </a>
-    <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v2.png"/> </a>
-</p> -->
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)-->
-<br/>
-<!-- <p align="center">
-    <a href="https://github.com/Inchara-JA/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Inchara J A's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Inchara-JA&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p> -->
+📫 [incharaanuradha58@gmail.com](mailto:incharaanuradha58@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN) · 🌐 [Portfolio](https://YOUR-USERNAME.github.io)
 
-  <br/>
-    <a href="https://github.com/Inchara-JA/github-readme-stats"><img alt="Inchara J A's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Inchara-JA&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Inchara-JA/github-readme-stats"><img alt="Inchara J A's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inchara-JA&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  
-<!-- <br/>
-<br/>
-<a href="https://github.com/Inchara-JA/github-readme-activity-graph"><img alt="Inchara J A's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Inchara-JA&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-<br/>
-<br/> -->
+---
 
-<!-- <a href="https://github.com/Meghna-DAS/github-profile-views-counter"></br>
-    <img src="https://komarev.com/ghpvc/?username=Inchara-JA">
-</a></br> -->
+## 🧰 Tech stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<!-- <a href = "https://www.linkedin.com/in/inchara-j-a-887420198/"><img src="https://img.icons8.com/fluency/48/000000/linkedin-2.png" height="40" width="40" margin-right="30"/></a>     
-<a href = "https://www.instagram.com/inchara_28/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35" width="35"/></a>
-<a href = "https://www.hackerrank.com/aarushiii73"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="35" width="40"/></a> -->   
-    
-<a href="https://www.linkedin.com/in/inchara-j-a-887420198/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/inchara_28/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://www.hackerrank.com/aarushiii73"><img src="https://img.shields.io/badge/hackerrank-%2312100E.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" height=25></a>    
+| Area | Technologies |
+|---|---|
+| Languages | Python, Java, JavaScript, TypeScript, Go, C++, SQL |
+| Frontend | React, HTML5, CSS3 |
+| Backend | Spring Boot, Node.js, REST APIs, GraphQL, Microservices |
+| Cloud & DevOps | AWS, Microsoft Azure, Docker, Kubernetes, Terraform, Jenkins, CI/CD |
+| Data | PostgreSQL, MySQL, MongoDB, PySpark, Pandas, ETL, Data Transformation, Data Validation |
+| Messaging | Apache Kafka, API Integration, JSON |
+| Testing | JUnit, Unit Testing, Integration Testing, API Testing, Test Automation, Debugging |
+| Engineering | Git, GitHub, Linux, JIRA, Agile, Scrum, System Design, Error Handling |
+| Security | Authentication, Role-Based Access Control, Input Validation |
 
-</p>
+---
+
+## 💼 Experience
+
+**Software Engineer Intern, Atlassian** · Dec 2025 – Present · USA
+- Backend components with Spring Boot, Python and SQL (REST APIs, microservices, PostgreSQL); reduced average response time by **20%** across assigned workflows
+- Processed and transformed **50K+ records per day** with Python and PySpark, improving recurring processing efficiency by **40%**
+- Worked with Docker, Kubernetes, AWS, Git and CI/CD pipelines
+- Added input validation, error handling and data-quality checks; wrote unit, integration and API tests
+
+**Full Stack Developer, Spense Reliable Fintech Pvt. Ltd.** · Dec 2022 – Aug 2024 · India
+- Built secure credit card onboarding workflows (React, TypeScript, JavaScript, Node.js) supporting **5,000+ customer applications**; helped increase completion by **22%**
+- Worked on Spring Boot and Node.js microservices for onboarding, KYC and asset-backed credit; handled **1,000+ daily requests** and improved API throughput by **17%**
+- Built React, TypeScript, GraphQL and SQL dashboards, cutting manual application tracking by **30%**
+- Added Kafka event processing, authentication, validation and automated testing, increasing regression coverage by **25%**
+
+**Junior Software Developer, BrioBrill** · Jun 2021 – Oct 2022 · India
+- Developed leave, attendance and payroll workflows for the Perk Attendance & Payroll platform, supporting **1,000+ employee records** and improving HR processing efficiency by **18%**
+- Built REST API integrations with Java, Spring Boot and MySQL; handled **500+ daily transactions** and reduced data retrieval time by **20%**
+- Implemented role-based access control and secure API endpoints; helped reduce recurring defects by **15%**
+
+---
+
+## 🚀 Featured projects
+
+### [E-Commerce Order Management Platform](https://github.com/YOUR-USERNAME/ecommerce-order-management)
+`Java` `Spring Boot` `React` `TypeScript` `PostgreSQL` `REST APIs` `Docker` `JUnit`
+
+Full-stack application with customer registration, product management, cart and order-processing workflows. Customer and order operations go through REST APIs with authentication, input validation, exception handling and JUnit tests. Docker keeps setup consistent across environments.
+
+```mermaid
+flowchart LR
+  A[React + TypeScript] -->|REST APIs| B[Spring Boot services]
+  B --> C[(PostgreSQL)]
+```
+
+### [Medical RAG Assistant](https://github.com/YOUR-USERNAME/medical-rag-assistant)
+`Python` `LangChain` `Llama 3` `Pinecone` `Flask` `Hugging Face Embeddings`
+
+Lets users ask questions and find relevant information across medical documents. PDF extraction, chunking, embeddings and Pinecone vector search feed retrieved context to the LLM through an API workflow.
+
+```mermaid
+flowchart LR
+  A[PDF documents] --> B[Text extraction] --> C[Chunking] --> D[Embeddings]
+  D --> E[Pinecone vector search] --> F[Retrieved context] --> G[Llama 3 response]
+```
+
+> ⚠️ Information-retrieval demonstration only. Not a substitute for professional medical advice.
+
+---
+
+## 🎓 Education
+
+- **University of Massachusetts Amherst**: M.S. Business Analytics (Data Science), Sept 2024 – May 2026
+- **Jyothy Institute of Technology**: B.E. Information Science, Aug 2019 – Aug 2023
+
+---
+
+## 🤝 Let’s connect
+
+Have an interesting problem to solve? I’m interested in building reliable software, thoughtful full-stack experiences, and systems that turn complex workflows into practical solutions.
+
+[Email me](mailto:incharaanuradha58@gmail.com) · [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)
