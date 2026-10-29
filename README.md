@@ -11,8 +11,6 @@
     <img src="https://img.shields.io/github/stars/USERNAME/REPO?label=Stars&logo=github&logoColor=white&labelColor=0d1117&color=f0c040&style=flat" alt="GitHub stars">
   </a>
 </div>
-## 🧰 Tech stack
-
 <div align="center">
   <img src="tech.svg" alt="Tech stack: Python, Java, JavaScript, TypeScript, Go, C++, SQL, React, Spring Boot, Node.js, AWS, Docker, Kubernetes, PostgreSQL, Kafka, JUnit, Git and more" width="100%">
 </div>
