@@ -36,6 +36,4 @@
     <img src="contact-linkedin.svg" alt="Connect on LinkedIn: linkedin.com/in/inchara-ja" width="48%">
   </a>
 </div>
-<div align="center">
-  <img src="contact-footer.svg" alt="Thank you for visiting. Build, innovate, engineer. Inchara Jayaram Anuradha." width="100%">
-</div>
+
