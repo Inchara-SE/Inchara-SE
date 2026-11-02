@@ -28,16 +28,14 @@
 
 `JavaScript` `React` `Node.js` `Java` `Spring Boot` `MySQL` `REST APIs` `Role-Based Access Control` `Git`
 
----
 <div align="center">
-  <img src="impact-highlights.svg" alt="Impact highlights grouped by employer: Atlassian, Spense and BrioBrill, with eight measurable outcomes" width="100%">
+  <a href="mailto:incharaanuradha58@gmail.com">
+    <img src="contact-email.svg" alt="Email Me: incharaanuradha58@gmail.com" width="48%">
+  </a>
+  <a href="https://www.linkedin.com/in/inchara-ja/">
+    <img src="contact-linkedin.svg" alt="Connect on LinkedIn: linkedin.com/in/inchara-ja" width="48%">
+  </a>
 </div>
-
-<p align="center">
-  <a href="mailto:incharaanuradha58@gmail.com"><img src="https://img.shields.io/badge/Email-incharaanuradha58%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Inchara"></a>
-  <a href="https://www.linkedin.com/in/inchara-ja/"><img src="https://img.shields.io/badge/LinkedIn-inchara--ja-0A66C2?style=for-the-badge" alt="Inchara on LinkedIn"></a>
-</p>
-<p align="center">
-  <a href="mailto:incharaanuradha58@gmail.com"><img src="https://img.shields.io/badge/Email-incharaanuradha58%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Inchara"></a>
-  <a href="https://www.linkedin.com/in/inchara-ja/"><img src="https://img.shields.io/badge/LinkedIn-inchara--ja-0A66C2?style=for-the-badge" alt="Inchara on LinkedIn"></a>
-</p>
+<div align="center">
+  <img src="contact-footer.svg" alt="Thank you for visiting. Build, innovate, engineer. Inchara Jayaram Anuradha." width="100%">
+</div>
