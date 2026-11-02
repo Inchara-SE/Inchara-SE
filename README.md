@@ -37,3 +37,7 @@
   <a href="mailto:incharaanuradha58@gmail.com"><img src="https://img.shields.io/badge/Email-incharaanuradha58%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Inchara"></a>
   <a href="https://www.linkedin.com/in/inchara-ja/"><img src="https://img.shields.io/badge/LinkedIn-inchara--ja-0A66C2?style=for-the-badge" alt="Inchara on LinkedIn"></a>
 </p>
+<p align="center">
+  <a href="mailto:incharaanuradha58@gmail.com"><img src="https://img.shields.io/badge/Email-incharaanuradha58%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Inchara"></a>
+  <a href="https://www.linkedin.com/in/inchara-ja/"><img src="https://img.shields.io/badge/LinkedIn-inchara--ja-0A66C2?style=for-the-badge" alt="Inchara on LinkedIn"></a>
+</p>
