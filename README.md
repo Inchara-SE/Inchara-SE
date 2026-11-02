@@ -33,8 +33,7 @@
   <img src="impact-highlights.svg" alt="Impact highlights grouped by employer: Atlassian, Spense and BrioBrill, with eight measurable outcomes" width="100%">
 </div>
 
-## 🤝 Let’s connect
-
-Have an interesting problem to solve? I’m interested in building reliable software, thoughtful full-stack experiences, and systems that turn complex workflows into practical solutions.
-
-[Email me](mailto:incharaanuradha58@gmail.com) · [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)
+<p align="center">
+  <a href="mailto:incharaanuradha58@gmail.com"><img src="https://img.shields.io/badge/Email-incharaanuradha58%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Inchara"></a>
+  <a href="https://www.linkedin.com/in/inchara-ja/"><img src="https://img.shields.io/badge/LinkedIn-inchara--ja-0A66C2?style=for-the-badge" alt="Inchara on LinkedIn"></a>
+</p>
