@@ -19,7 +19,7 @@
 
 
 <div align="center">
-  <img src="experience-timeline.svg" alt="Timeline of three roles: Atlassian (Software Engineer Intern, Dec 2025 to present), Spense Reliable Fintech (Full Stack Developer, Dec 2022 to Aug 2024), BrioBrill (Junior Software Developer, Jun 2021 to Oct 2022)" width="100%">
+  <img src="experience-timeline.svg" alt="Timeline of three roles:  Northern Trust Corporation (Software Engineer Intern, Dec 2025 to present), Spense Reliable Fintech (Full Stack Developer, Dec 2022 to Aug 2024), BrioBrill (Junior Software Developer, Jun 2021 to Oct 2022)" width="100%">
 </div>
 
 
